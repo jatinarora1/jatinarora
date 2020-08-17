@@ -28,4 +28,4 @@ I scored 10 CGPA in 10th grade in the CBSE Board examination.
 
 # Contact
 
-Email: <a href="arora8331@gmail.com">arora8331@gmail.com</a>
+Email: <a href="mailto:arora8331@gmail.com">arora8331@gmail.com</a>

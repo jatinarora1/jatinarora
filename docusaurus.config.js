@@ -85,7 +85,7 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/anshulrgoyal",
+              href: "https://github.com/jatinarora1",
             },
           ],
         },

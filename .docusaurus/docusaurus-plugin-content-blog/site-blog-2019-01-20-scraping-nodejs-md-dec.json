@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/scrapping-nodejs",
+  "source": "@site/blog/2019-01-20-scraping-nodejs.md",
+  "description": "Everybody says that python is best for scraping but I always wonder why we don't use NodeJs for Scraping?",
+  "date": "2019-01-20T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "cheerio",
+      "permalink": "/blog/tags/cheerio"
+    },
+    {
+      "label": "nodejs",
+      "permalink": "/blog/tags/nodejs"
+    },
+    {
+      "label": "scrapping",
+      "permalink": "/blog/tags/scrapping"
+    }
+  ],
+  "title": "Scraping with NodeJS and Cheerio",
+  "readingTime": 5.505,
+  "truncated": true,
+  "prevItem": {
+    "title": "Creating Forms In React With Formik And Yup",
+    "permalink": "/blog/react-formik"
+  },
+  "nextItem": {
+    "title": "Setting A React Project From Scratch Using Babel And Webpack",
+    "permalink": "/blog/react-setup"
+  }
+}

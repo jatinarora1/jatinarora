@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/nodejs-rust-match",
+  "source": "@site/blog/2020-04-19-rust-and-nodejs.md",
+  "description": "Table of Contents",
+  "date": "2020-04-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "rust",
+      "permalink": "/blog/tags/rust"
+    },
+    {
+      "label": "nodejs",
+      "permalink": "/blog/tags/nodejs"
+    }
+  ],
+  "title": "Rust and Node.js: A match made in heaven",
+  "readingTime": 20.58,
+  "truncated": true,
+  "prevItem": {
+    "title": "A beginners guide to gRPC with Rust",
+    "permalink": "/blog/grpc-rust"
+  },
+  "nextItem": {
+    "title": "Creating Forms In React With Formik And Yup",
+    "permalink": "/blog/react-formik"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/jwt-auth",
+  "source": "@site/blog/2019-01-14-jwt-auth.md",
+  "description": "Introduction",
+  "date": "2019-01-14T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "jwt",
+      "permalink": "/blog/tags/jwt"
+    },
+    {
+      "label": "auth",
+      "permalink": "/blog/tags/auth"
+    },
+    {
+      "label": "nodejs",
+      "permalink": "/blog/tags/nodejs"
+    },
+    {
+      "label": "express",
+      "permalink": "/blog/tags/express"
+    }
+  ],
+  "title": "A Practical Guide for JWT Authentication Using Node.js and Express",
+  "readingTime": 6.66,
+  "truncated": true,
+  "prevItem": {
+    "title": "Setting A React Project From Scratch Using Babel And Webpack",
+    "permalink": "/blog/react-setup"
+  }
+}

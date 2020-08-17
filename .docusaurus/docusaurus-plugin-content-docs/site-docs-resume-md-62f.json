@@ -1,0 +1,9 @@
+{
+  "unversionedId": "resume",
+  "id": "resume",
+  "isDocsHomePage": false,
+  "title": "Resume",
+  "description": "Hi, you! My name is Jatin Arora. I am a tech enthusiast for the past few years and pass my time using tech to solve problems. I love to code and enjoy listening pop music. I can write code in many languages and use well-established frameworks in these languages. I am also a fan of Open source. I specialize in the machine learning , computer vision and natural language processing.",
+  "source": "@site/docs/resume.md",
+  "permalink": "/resume"
+}

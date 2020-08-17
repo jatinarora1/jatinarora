@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/strapi",
+  "source": "@site/blog/2020-05-24-strapi.md",
+  "description": "This article was originally published here",
+  "date": "2020-05-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "strapi",
+      "permalink": "/blog/tags/strapi"
+    },
+    {
+      "label": "nodejs",
+      "permalink": "/blog/tags/nodejs"
+    },
+    {
+      "label": "cms",
+      "permalink": "/blog/tags/cms"
+    },
+    {
+      "label": "backend",
+      "permalink": "/blog/tags/backend"
+    }
+  ],
+  "title": "All in one guide for creating a killer API with Strapi",
+  "readingTime": 11.375,
+  "truncated": true,
+  "nextItem": {
+    "title": "A beginners guide to gRPC with Rust",
+    "permalink": "/blog/grpc-rust"
+  }
+}

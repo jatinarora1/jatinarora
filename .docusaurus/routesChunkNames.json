@@ -1,0 +1,245 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-fdd": {
+    "component": "component---theme-debugd-45-c28"
+  },
+  "/blog-4f8": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "items": [
+      {
+        "content": "content---blog-219-bdb"
+      },
+      {
+        "content": "content---blog-56-b-21f"
+      },
+      {
+        "content": "content---blog-48-b-537"
+      },
+      {
+        "content": "content---blog-561-70f"
+      },
+      {
+        "content": "content---blog-982-94a"
+      },
+      {
+        "content": "content---blogc-92-568"
+      },
+      {
+        "content": "content---blog-621-afb"
+      }
+    ],
+    "metadata": "metadata---blogbbb-5f9"
+  },
+  "/blog/grpc-rust-846": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-grpc-rust-1-ab-0ba"
+  },
+  "/blog/jwt-auth-a9b": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-jwt-auth-935-fa5"
+  },
+  "/blog/nodejs-rust-match-f1f": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-nodejs-rust-match-132-de4"
+  },
+  "/blog/react-formik-db3": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-react-formik-78-f-4b3"
+  },
+  "/blog/react-setup-153": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-react-setup-9-b-8-3ca"
+  },
+  "/blog/scrapping-nodejs-017": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-scrapping-nodejsdec-50a"
+  },
+  "/blog/strapi-42e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-strapi-28-a-72c"
+  },
+  "/blog/tags-3a8": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---blog-tags-8-be-13d"
+  },
+  "/blog/tags/auth-077": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-621-afb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-autha-2-e-a38"
+  },
+  "/blog/tags/babel-ca1": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blogc-92-568"
+      }
+    ],
+    "metadata": "metadata---blog-tags-babel-102-da9"
+  },
+  "/blog/tags/backend-9b9": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-219-bdb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-backendcbd-4f2"
+  },
+  "/blog/tags/cheerio-1e7": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-982-94a"
+      }
+    ],
+    "metadata": "metadata---blog-tags-cheeriod-36-ca9"
+  },
+  "/blog/tags/cms-b86": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-219-bdb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-cms-383-bf2"
+  },
+  "/blog/tags/express-ae4": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-621-afb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-expressb-80-a09"
+  },
+  "/blog/tags/formik-9d0": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-561-70f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-formik-560-3a6"
+  },
+  "/blog/tags/grpc-038": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-56-b-21f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-grpc-141-8ec"
+  },
+  "/blog/tags/jwt-29c": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-621-afb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-jwtee-5-a52"
+  },
+  "/blog/tags/nodejs-54e": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-219-bdb"
+      },
+      {
+        "content": "content---blog-48-b-537"
+      },
+      {
+        "content": "content---blog-982-94a"
+      },
+      {
+        "content": "content---blog-621-afb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-nodejs-951-823"
+  },
+  "/blog/tags/react-1a9": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blogc-92-568"
+      }
+    ],
+    "metadata": "metadata---blog-tags-react-05-f-5b8"
+  },
+  "/blog/tags/rect-d22": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-561-70f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-rect-06-d-5a8"
+  },
+  "/blog/tags/rust-c33": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-56-b-21f"
+      },
+      {
+        "content": "content---blog-48-b-537"
+      }
+    ],
+    "metadata": "metadata---blog-tags-rust-08-c-e81"
+  },
+  "/blog/tags/scrapping-587": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-982-94a"
+      }
+    ],
+    "metadata": "metadata---blog-tags-scrapping-56-f-0de"
+  },
+  "/blog/tags/strapi-c1e": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-219-bdb"
+      }
+    ],
+    "metadata": "metadata---blog-tags-strapid-44-c13"
+  },
+  "/blog/tags/webpack-787": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blogc-92-568"
+      }
+    ],
+    "metadata": "metadata---blog-tags-webpackc-16-530"
+  },
+  "/blog/tags/yup-600": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-561-70f"
+      }
+    ],
+    "metadata": "metadata---blog-tags-yupecb-a5f"
+  },
+  "/-cbf": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---ec-1-ddf"
+  },
+  "/projects-c4e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---projects-461-c73"
+  },
+  "/resume-1b8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---resume-62-f-040"
+  }
+}

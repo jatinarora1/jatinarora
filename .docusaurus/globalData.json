@@ -1,0 +1,25 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "latestVersionName": null,
+      "versions": [
+        {
+          "name": null,
+          "path": "/",
+          "mainDocId": "projects",
+          "docs": [
+            {
+              "id": "projects",
+              "path": "/projects"
+            },
+            {
+              "id": "resume",
+              "path": "/resume"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

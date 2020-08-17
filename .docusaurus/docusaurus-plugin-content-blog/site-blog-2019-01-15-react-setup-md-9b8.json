@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/react-setup",
+  "source": "@site/blog/2019-01-15-react-setup.md",
+  "description": "There are many tools for getting a boilerplate code generated available for reactjs. The most popular tool used by many developers is create-react-app, which comes with many configuration options.",
+  "date": "2019-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "react",
+      "permalink": "/blog/tags/react"
+    },
+    {
+      "label": "webpack",
+      "permalink": "/blog/tags/webpack"
+    },
+    {
+      "label": "babel",
+      "permalink": "/blog/tags/babel"
+    }
+  ],
+  "title": "Setting A React Project From Scratch Using Babel And Webpack",
+  "readingTime": 7.47,
+  "truncated": true,
+  "prevItem": {
+    "title": "Scraping with NodeJS and Cheerio",
+    "permalink": "/blog/scrapping-nodejs"
+  },
+  "nextItem": {
+    "title": "A Practical Guide for JWT Authentication Using Node.js and Express",
+    "permalink": "/blog/jwt-auth"
+  }
+}

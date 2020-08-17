@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/react-formik",
+  "source": "@site/blog/2019-01-25-react-formik.md",
+  "description": "Forms are a very important part of any application. Forms are used everywhere from login to search.",
+  "date": "2019-01-25T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "formik",
+      "permalink": "/blog/tags/formik"
+    },
+    {
+      "label": "rect",
+      "permalink": "/blog/tags/rect"
+    },
+    {
+      "label": "yup",
+      "permalink": "/blog/tags/yup"
+    }
+  ],
+  "title": "Creating Forms In React With Formik And Yup",
+  "readingTime": 5.215,
+  "truncated": true,
+  "prevItem": {
+    "title": "Rust and Node.js: A match made in heaven",
+    "permalink": "/blog/nodejs-rust-match"
+  },
+  "nextItem": {
+    "title": "Scraping with NodeJS and Cheerio",
+    "permalink": "/blog/scrapping-nodejs"
+  }
+}

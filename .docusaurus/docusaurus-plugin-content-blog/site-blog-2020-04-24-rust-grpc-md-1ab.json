@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/grpc-rust",
+  "source": "@site/blog/2020-04-24-rust-grpc.md",
+  "description": "Table of Contents",
+  "date": "2020-04-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "rust",
+      "permalink": "/blog/tags/rust"
+    },
+    {
+      "label": "grpc",
+      "permalink": "/blog/tags/grpc"
+    }
+  ],
+  "title": "A beginners guide to gRPC with Rust",
+  "readingTime": 19.355,
+  "truncated": true,
+  "prevItem": {
+    "title": "All in one guide for creating a killer API with Strapi",
+    "permalink": "/blog/strapi"
+  },
+  "nextItem": {
+    "title": "Rust and Node.js: A match made in heaven",
+    "permalink": "/blog/nodejs-rust-match"
+  }
+}
